@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resValidateFakturPm>
+    <kdJenisTransaksi>01</kdJenisTransaksi>
+    <fgPengganti>0</fgPengganti>
+    <nomorFaktur>0021599999901</nomorFaktur>
+    <tanggalFaktur>1/10/2015</tanggalFaktur>
+    <npwpPenjual>013700999999999</npwpPenjual>
+    <namaPenjual>PT UNTUNG SELAMANYA</namaPenjual>
+    <alamatPenjual>JL.PALMERAH No 1212128, JAKARTA SELATAN</alamatPenjual>
+    <npwpLawanTransaksi>013700999999998</npwpLawanTransaksi>
+    <namaLawanTransaksi>PT TIDAK PERNAH RUGI</namaLawanTransaksi>
+    <alamatLawanTransaksi>JL MT. HARYONO Kav 8F65, WISMA HAR Lt. 38, JAKARTA TIMUR 13330</alamatLawanTransaksi>
+    <jumlahDpp>3324088</jumlahDpp>
+    <jumlahPpn>332408</jumlahPpn>
+    <jumlahPpnBm>0</jumlahPpnBm>
+    <statusApproval>Faktur Valid, Sudah Diapprove oleh DJP</statusApproval>
+    <statusFaktur>Faktur Pajak Normal</statusFaktur>
+    <detailTransaksi>
+        <nama>KURSI LIPAT</nama>
+        <hargaSatuan>5131</hargaSatuan>
+        <jumlahBarang>288</jumlahBarang>
+        <hargaTotal>1477728</hargaTotal>
+        <diskon>0</diskon>
+        <dpp>1477728</dpp>
+        <ppn>147772.8</ppn>
+        <tarifPpnbm>0</tarifPpnbm>
+        <ppnbm>0</ppnbm>
+    </detailTransaksi>
+    <detailTransaksi>
+        <nama>KURSI GESER</nama>
+        <hargaSatuan>5339</hargaSatuan>
+        <jumlahBarang>288</jumlahBarang>
+        <hargaTotal>1537632</hargaTotal>
+        <diskon>0</diskon>
+        <dpp>1537632</dpp>
+        <ppn>153763.2</ppn>
+        <tarifPpnbm>0</tarifPpnbm>
+        <ppnbm>0</ppnbm>
+    </detailTransaksi>
+    <detailTransaksi>
+        <nama>KURSI KNOCK DOWN</nama>
+        <hargaSatuan>4172</hargaSatuan>
+        <jumlahBarang>74</jumlahBarang>
+        <hargaTotal>308728</hargaTotal>
+        <diskon>0</diskon>
+        <dpp>308728</dpp>
+        <ppn>30872.8</ppn>
+        <tarifPpnbm>0</tarifPpnbm>
+        <ppnbm>0</ppnbm>
+    </detailTransaksi>
+</resValidateFakturPm>
