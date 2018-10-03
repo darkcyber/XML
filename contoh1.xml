@@ -2,7 +2,7 @@
 <resValidateFakturPm>
     <kdJenisTransaksi>01</kdJenisTransaksi>
     <fgPengganti>0</fgPengganti>
-    <nomorFaktur>0021599999901'</nomorFaktur>
+    <nomorFaktur'>0021599999901<b>bold</b></nomorFaktur>
     <tanggalFaktur>1/10/2015'</tanggalFaktur>
     <npwpPenjual>013700999999999</npwpPenjual>
     <namaPenjual>PT UNTUNG SELAMANYA</namaPenjual>
